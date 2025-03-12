@@ -40,32 +40,8 @@ The **ICT Alumni Management System** is a web-based platform designed to maintai
 ### **4. High-Level System Diagram**
 
 #### **System Architecture:**
-```
-+------------------------+
-|   User Interface      |
-| (Web & Mobile App)    |
-+------------------------+
-           |
-           v
-+------------------------+
-|   Application Layer   |
-| (Backend API)         |
-+------------------------+
-           |
-           v
-+------------------------+
-|   Database Layer      |
-| (Alumni Data, Events, |
-|  Jobs, Messages)      |
-+------------------------+
-           |
-           v
-+------------------------+
-|  Third-Party Services |
-| (Payment Gateway,     |
-|  Email Notifications) |
-+------------------------+
-```
+![High-Level System Diagram](https://github.com/ebrahim4070/ICT-Alumni-Management-System/blob/main/ict_alumni_high_level_diagram_v2.png)
+
 
 ### **5. Technologies Used**
 - **Frontend:** HTML, CSS, JavaScript, React.js
