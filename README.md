@@ -1,7 +1,7 @@
 **Project Synopsis: ICT Alumni Management System**
 
 ### **1. Introduction**
-The **ICT Alumni Management System** is a web-based platform designed to maintain a structured database of alumni from an ICT institution. It facilitates communication between alumni and the institution, allowing for event management, job postings, and networking opportunities. The system ensures seamless interaction and engagement among past and current students, faculty members, and administration.
+The **ICT Alumni Management System** is a web-based platform designed to maintain a structured database of alumni from ICT department of MBSTU. It facilitates communication between alumni and the institution, allowing for event management, job postings, and networking opportunities. The system ensures seamless interaction and engagement among past and current students, faculty members, and administration.
 
 ### **2. Objectives**
 - To provide an organized and accessible platform for alumni to stay connected with their alma mater.
