@@ -49,7 +49,7 @@ The **ICT Alumni Management System** is a web-based platform designed to maintai
 - **Database:** MySQL / MongoDB
 - **Authentication:** JWT / OAuth
 - **Hosting:** AWS / Firebase
-- **Payment Gateway:** PayPal / Stripe
+- **Payment Gateway:** Mobile Banking
 
 ### **6. Conclusion**
 The ICT Alumni Management System will bridge the gap between the institution and its alumni network, fostering a strong and professional community. This system will enhance engagement, simplify communication, and provide valuable career opportunities for graduates and students alike.
